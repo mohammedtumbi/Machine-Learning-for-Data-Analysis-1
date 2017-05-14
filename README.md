@@ -415,7 +415,7 @@ sklearn.metrics.confusion_matrix(tar_test,predictions)
 
 
 
-**The results shows the model has correctly predicted 48 True Postive and 32 True Negatives. But, there are 28 False predictions (14 each in FP and FN). **
+**The results shows the model has correctly predicted 48 True Postive and 32 True Negatives. But, there are 28 False predictions (14 each in FP and FN).**
 
 
 ```python
@@ -429,7 +429,7 @@ sklearn.metrics.accuracy_score(tar_test, predictions)
 
 
 
-** Overall accurace of the model is around 79%. **
+**Overall accurace of the model is around 79%.**
 
 ## Plotting Decision Tree.
 
