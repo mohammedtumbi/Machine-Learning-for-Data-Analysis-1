@@ -453,6 +453,6 @@ Image(graph.create_png())
 ![png](output_25_0.png)
 
 
-# Explaination
+# Interpretation
 
 It is clear from the above tree the Decision Tree classfication is able to classfy the data with around 80% accuracy. The Most important attribute is Chest Pain Type. 
